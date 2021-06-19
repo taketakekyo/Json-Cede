@@ -1,4 +1,4 @@
-var events = {
+{
    "location":"San Fransisco, CA",
    "date": "May 1"
 }
